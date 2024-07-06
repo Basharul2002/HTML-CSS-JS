@@ -2,7 +2,7 @@
 
 This project is a responsive login and signup form created using HTML, CSS, and JavaScript. The design includes a welcoming sign-in section and a registration form, integrated with social media login options.
 
-![Screenshot](Assets/Login%20Page.png.png)
+![Screenshot](Assets/Login%20Page.png)
 
 ## Features
 
@@ -12,7 +12,7 @@ This project is a responsive login and signup form created using HTML, CSS, and 
 
 ## Preview
 
-![Form Preview](Assets/Login%20Page.png.png)
+![Form Preview](Assets/Login%20Page.png)
 
 ## Technologies Used
 
